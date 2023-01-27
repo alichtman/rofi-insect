@@ -1,6 +1,6 @@
 # rofi-insect
 
-[insect](https://github.com/sharkdp/insect) plugin for [`rofi`](https://github.com/davatorium/rofi) / `dmenu`
+[insect](https://github.com/sharkdp/insect) plugin for [`rofi`](https://github.com/davatorium/rofi) / `dmenu`. It's an analog of [macOS Spotlight calculator functions](https://macandegg.com/2020/12/use-macos-spotlight-search-as-calculator/) for Linux.
 
 https://user-images.githubusercontent.com/20600565/215080362-7c188e15-2d56-421d-abec-9bf88b44df60.mp4
 
