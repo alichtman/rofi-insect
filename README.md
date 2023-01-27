@@ -18,8 +18,9 @@ I integrate this with [`rofi-bangs.sh`](https://github.com/gotbletu/shownotes/bl
 ```bash
 ## ~/.config/rofi/scripts/rofi-bangs.sh
 ...
+
 # Use calculator (insect)
-COMMANDS["calc"]="/home/alichtman/.config/rofi/scripts/rofi-insect/rofi-insect.sh"
+COMMANDS["calc"]="$XDG_CONFIG_HOME/rofi/scripts/rofi-insect/rofi-insect.sh"
 LABELS["calc"]=""
 ```
 
